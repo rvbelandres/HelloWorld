@@ -1,0 +1,6 @@
+C:\MyFiles\Projects\NumberToWords\NumberToWords\bin\Debug\NumberToWords.exe.config
+C:\MyFiles\Projects\NumberToWords\NumberToWords\bin\Debug\NumberToWords.exe
+C:\MyFiles\Projects\NumberToWords\NumberToWords\bin\Debug\NumberToWords.pdb
+C:\MyFiles\Projects\NumberToWords\NumberToWords\obj\Debug\NumberToWords.csproj.CoreCompileInputs.cache
+C:\MyFiles\Projects\NumberToWords\NumberToWords\obj\Debug\NumberToWords.exe
+C:\MyFiles\Projects\NumberToWords\NumberToWords\obj\Debug\NumberToWords.pdb
